@@ -1,0 +1,51 @@
+body {
+    background-image: url("../views/templates/images/chicago_westside-50.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img.character {
+    height: 400px;
+    width: 400px;
+}
+
+.nav {
+    background-color: #c0a16b;
+    padding: 20px;
+    margin: 20px;
+    width: 100%;
+}
+
+.character {
+    width: 400px;
+    background: #000;
+    margin: 10px;
+}
+
+p {
+    padding-top: 20px;
+    color: #fff;
+    text-align: left;
+}
+
+h2 {
+    color: #fff;
+}
+
+.nav-pills {
+    color: #000;
+}
+
+a {
+    color: #761c19;
+}
+
+a:hover {
+    color: #000;
+}
+
+.home-text {
+    padding: 20px;
+
+}
